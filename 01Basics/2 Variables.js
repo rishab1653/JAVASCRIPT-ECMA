@@ -12,7 +12,7 @@ let lastName = 'Goyal'
 console.log(firstName +' ' +lastName) 
 
 
-//Difference between const and let is we can reassign the value in consta whereas it is possible 
+//Difference between const and let is we can reassign the value in consta whereas it is not possible 
 // in var
 
 // i.e  
